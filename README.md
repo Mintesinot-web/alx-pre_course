@@ -1,2 +1,1 @@
-# alx-pre_course_new
-repo
+My first read
